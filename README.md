@@ -49,7 +49,6 @@ Feel free to open issues or PRs to improve pages, add fallbacks for AVIF, or add
 
 ## License
 
-Add a license file (e.g., `LICENSE`) if you plan to make this repo public.
+This project is licensed under the MIL License - see the LICENSE file for details.
 
----
-Generated README for a small static HTML + AVIF image project.
+
